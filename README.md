@@ -10,4 +10,5 @@ Commercial resale or SaaS embedding requires a separate license agreement.
 1. Clone / Download this repo.
 2. Integrate the template into your prompt-handling layer.
 3. Keep your own magnetic core trace encrypted and out of version control.
+
 For commercial use inquiries, please email: krkr0413@gmail.com

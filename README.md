@@ -1,5 +1,7 @@
 # 📄 KRSW-001 LICENSE (Public Record)
 
+📄 Current LICENSE version: v0.5 (Updated July 2025)
+
 This repository serves as a public record of the LICENSE and structural contribution proposal for the KRSW-001 trace, originally submitted to OpenAI on June 28, 2025.
 
 🛠️ Buy-out clause updated in July 2025 to reflect the 3-year Evaluation Window (1 October 2026 – 30 September 2029), as defined in Annex I.

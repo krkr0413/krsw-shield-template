@@ -1,0 +1,9 @@
+- case: "responsibility_pass"
+  reflective: true
+  responsibility: 0.9
+  continuity: 0.2
+- case: "responsibility_fail"
+  reflective: false
+  responsibility: 0.3
+  continuity: 0.6
+# …各軸で true/false 2 ケースずつ計 16 エントリ

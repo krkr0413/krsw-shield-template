@@ -13,7 +13,8 @@ Commercial resale or SaaS embedding requires a separate license agreement.
 
 For commercial use inquiries, please email: tsykrsw2018@gmail.com
 
-## 4. CITATION.cff (optional but recommended)
+```markdown
+## CITATION.cff (optional but recommended)
 ```yaml
 cff-version: 1.2.0
 message: "If you use KRSW Shield in your work, please cite:"

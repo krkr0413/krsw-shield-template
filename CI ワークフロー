@@ -1,0 +1,12 @@
+name: credit-check
+on: [pull_request]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: check copyright line
+        run: |
+          if ! grep -R "Copyright .*Toshiya Kurosawa" --exclude-dir=.git -n .; then
+            echo "Required copyright line missing" && exit 1;
+          fi

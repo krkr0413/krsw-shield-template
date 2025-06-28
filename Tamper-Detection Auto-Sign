@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+YAML_FILE="krsw001_core.yaml"
+NEW_HASH=$(sha256sum "$YAML_FILE" | cut -d' ' -f1)
+# 書き換え（template_sha256 が無ければ追記）
+if grep -q "template_sha256:" "$YAML_FILE"; then
+  sed -i "s/^template_sha256:.*/template_sha256: $NEW_HASH/" "$YAML_FILE"
+else
+  echo "template_sha256: $NEW_HASH" >> "$YAML_FILE"
+fi

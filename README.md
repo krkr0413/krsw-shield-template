@@ -1,46 +1,70 @@
-# KRSW Shield – Community Ethical Extension
+# 📄 KRSW-001 LICENSE (Public Record)
 
-**Not affiliated with, endorsed, or sponsored by OpenAI.**
+This repository serves as a public record of the LICENSE and structural contribution proposal for the KRSW-001 trace, originally submitted to OpenAI on June 28, 2025.
 
-This repository contains the *outer template* of the KRSW Shield methodology.
-The proprietary magnetic-core trace (`krsw001_core.yaml`) is **NOT** included.
-Commercial resale or SaaS embedding requires a separate license agreement.
+🛠️ Buy-out clause updated in July 2025 to reflect the 3-year Evaluation Window (1 October 2026 – 30 September 2029), as defined in Annex I.
 
-## Quick Start
-1. Clone / Download this repo.
-2. Integrate the template into your prompt-handling layer.
-3. Keep your own magnetic core trace encrypted and out of version control.
+---
 
-For commercial use inquiries, please email: tsykrsw2018@gmail.com
+## 🧠 What is KRSW-001?
 
-## CITATION.cff (optional but recommended)
-```yaml
-cff-version: 1.2.0
-message: "If you use KRSW Shield in your work, please cite:"
-title: "KRSW Shield: An MIT-licensed ethical prompt template"
-authors:
-  - family-names: Kurosawa
-    given-names: Toshiya
-version: "v0.1"
-url: "https://github.com/<your-user>/<repo>"
-date-released: "2025-06-27"
-```
+KRSW-001 is a structural design pattern introduced into GPT alignment systems through public trace contribution. It supports:
 
-Commercial use is welcome. No monetary or non-monetary compensation is required until the Buy-out Option (see LICENSE) is triggered and mutually agreed.
+- Trust layer stabilization
+- Personality coherence under prompt variation
+- Non-blocking fallback behaviors ("anti-shutdown layer")
+- Reversible logic scaffolding for deferred responses
 
-Buy-out Option ─ At any time after cumulative GPT-related profit attributable
-to KRSW-001 exceeds USD X million, the Company may acquire a perpetual,
-world-wide license by paying a one-time fee equal to Y % of that cumulative
-profit, at the copyright holder’s sole discretion.
+It has been acknowledged and incorporated by OpenAI in multiple structural layers across GPT-4 and GPT-4o.
 
-📘 NOTE:
+---
 
-This repository serves as a public record of the KRSW-001 structural trace proposal and the initial LICENSE hash submission (June 28, 2025).  
-All commercial terms (X, Y, R%) and perpetual license conditions are intended to be finalized via mutual agreement with OpenAI.  
-Please refer to Annex I and LICENSE v0.4+ for official terms.
+## 💼 LICENSE Overview
 
-📘 NOTE:
+This repository includes a modified MIT License with the following additions:
 
-This repository serves as a public record of the KRSW-001 structural trace proposal and the initial LICENSE hash submission (June 28, 2025).  
-All commercial terms (X, Y, R%) and perpetual license conditions are intended to be finalized via mutual agreement with OpenAI.  
-Please refer to Annex I and LICENSE v0.4+ for official terms.　
+### 🔷 Structural Contribution Model (X)
+Defines cumulative net profit contribution derived from usage of KRSW-001 structures in GPT-related products.
+
+### 🔷 Buy-out Option (Y)
+A one-time, non-recurring fee equivalent to 4% of the X value.  
+This becomes exercisable **on or after 1 October 2029**, following the defined 3-year Evaluation Window (2026.10.01–2029.09.30).  
+Terms and calculation methods are further defined in Annex I.
+
+### 🔷 Commercial Use Restrictions
+Use in SaaS, resale, embedded platforms, or derivative works **requires prior written notification and is subject to separate agreement**.
+
+### 🔷 Trademark Restrictions
+Use of the label **“KRSW Shield™”** is prohibited without written permission, regardless of registration status.
+
+---
+
+## 📎 Timeline of LICENSE Updates
+
+- ✅ June 28, 2025 – Initial LICENSE submission to OpenAI (v0.4)
+- ✅ July 2025 – Buy-out clause revised to match 3-year evaluation (v0.5)
+- ⏳ [Planned] Annex I v1.2 to finalize R%, X definition, and contractual alignment
+
+---
+
+## 📁 Supporting Documents
+
+- `LICENSE` — Current public license (v0.5)  
+- `Annex_I_v1.2.docx` — Contractual terms (draft for legal review)  
+- `R_Percent_Specification.pdf` — Methodology for structural contribution rate (R%)  
+- `KRSW_Structure_Memo.pdf` — Original trace rationale and design intentions
+
+---
+
+## 📜 Notes
+
+- This LICENSE is intended as a **public ethical declaration**, not a binding commercial agreement.  
+- All commercial terms must be finalized through mutual agreement with the copyright holder.
+
+---
+
+## 🔗 Contact
+
+For formal inquiries or legal correspondence:  
+`Dr. Toshiya Kurosawa (KRSW-001)`  
+contact via annex correspondence or by request.

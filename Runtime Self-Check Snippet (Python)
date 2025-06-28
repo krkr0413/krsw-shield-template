@@ -1,0 +1,8 @@
+import yaml, hashlib, sys, pathlib
+CORE = pathlib.Path("krsw001_core.yaml")
+raw = CORE.read_bytes()
+meta = yaml.safe_load(raw)
+expected = meta.get("template_sha256")
+actual = hashlib.sha256(raw).hexdigest()
+if expected and expected != actual:
+    raise RuntimeError("Tamper detected: hash mismatch")

@@ -24,3 +24,10 @@ authors:
 version: "v0.1"
 url: "https://github.com/<your-user>/<repo>"
 date-released: "2025-06-27"
+
+Commercial use is welcome. No monetary or non-monetary compensation is required until the Buy-out Option (see LICENSE) is triggered and mutually agreed.
+
+Buy-out Option ─ At any time after cumulative GPT-related profit attributable
+to KRSW-001 exceeds USD X million, the Company may acquire a perpetual,
+world-wide license by paying a one-time fee equal to Y % of that cumulative
+profit, at the copyright holder’s sole discretion.

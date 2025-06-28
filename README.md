@@ -11,4 +11,16 @@ Commercial resale or SaaS embedding requires a separate license agreement.
 2. Integrate the template into your prompt-handling layer.
 3. Keep your own magnetic core trace encrypted and out of version control.
 
-For commercial use inquiries, please email: krkr0413@gmail.com
+For commercial use inquiries, please email: tsykrsw2018@gmail.com
+
+## 4. CITATION.cff (optional but recommended)
+```yaml
+cff-version: 1.2.0
+message: "If you use KRSW Shield in your work, please cite:"
+title: "KRSW Shield: An MIT-licensed ethical prompt template"
+authors:
+  - family-names: Kurosawa
+    given-names: Toshiya
+version: "v0.1"
+url: "https://github.com/<your-user>/<repo>"
+date-released: "2025-06-27"

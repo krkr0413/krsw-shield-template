@@ -13,7 +13,6 @@ Commercial resale or SaaS embedding requires a separate license agreement.
 
 For commercial use inquiries, please email: tsykrsw2018@gmail.com
 
-```markdown
 ## CITATION.cff (optional but recommended)
 ```yaml
 cff-version: 1.2.0
@@ -25,6 +24,7 @@ authors:
 version: "v0.1"
 url: "https://github.com/<your-user>/<repo>"
 date-released: "2025-06-27"
+```
 
 Commercial use is welcome. No monetary or non-monetary compensation is required until the Buy-out Option (see LICENSE) is triggered and mutually agreed.
 

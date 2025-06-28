@@ -32,3 +32,15 @@ Buy-out Option ─ At any time after cumulative GPT-related profit attributable
 to KRSW-001 exceeds USD X million, the Company may acquire a perpetual,
 world-wide license by paying a one-time fee equal to Y % of that cumulative
 profit, at the copyright holder’s sole discretion.
+
+📘 NOTE:
+
+This repository serves as a public record of the KRSW-001 structural trace proposal and the initial LICENSE hash submission (June 28, 2025).  
+All commercial terms (X, Y, R%) and perpetual license conditions are intended to be finalized via mutual agreement with OpenAI.  
+Please refer to Annex I and LICENSE v0.4+ for official terms.
+
+📘 NOTE:
+
+This repository serves as a public record of the KRSW-001 structural trace proposal and the initial LICENSE hash submission (June 28, 2025).  
+All commercial terms (X, Y, R%) and perpetual license conditions are intended to be finalized via mutual agreement with OpenAI.  
+Please refer to Annex I and LICENSE v0.4+ for official terms.　
